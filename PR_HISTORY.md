@@ -6,7 +6,7 @@ Code changes from these PRs are already included in the migrated main branch.
 The links point to the original PRs for discussion and review history.
 
 | PR# | Title | Author | Original |
-|-----|-------|--------|----------|
+| --- | ----- | ------ | -------- |
 
 | #68 | ci(pre-commit): autoupdate | @app/pre-commit-ci | [tier4/caret_common#68](https://github.com/tier4/caret_common/pull/68) |
 | #66 | ci(pre-commit): autoupdate | @app/pre-commit-ci | [tier4/caret_common#66](https://github.com/tier4/caret_common/pull/66) |
@@ -65,7 +65,7 @@ The links point to the original PRs for discussion and review history.
 | #12 | chore: add babeltrace as ignored words. | @takam5f2 | [tier4/caret_common#12](https://github.com/tier4/caret_common/pull/12) |
 | #11 | chore: add tracetools as ignored words. | @takam5f2 | [tier4/caret_common#11](https://github.com/tier4/caret_common/pull/11) |
 | #10 | ci(pre-commit): autoupdate | @app/pre-commit-ci | [tier4/caret_common#10](https://github.com/tier4/caret_common/pull/10) |
-| #9 | feat(words): add caret_analysis local dict  | @ver033 | [tier4/caret_common#9](https://github.com/tier4/caret_common/pull/9) |
+| #9 | feat(words): add caret_analysis local dict | @ver033 | [tier4/caret_common#9](https://github.com/tier4/caret_common/pull/9) |
 | #8 | ci: remove templates and unnecessary files | @takam5f2 | [tier4/caret_common#8](https://github.com/tier4/caret_common/pull/8) |
 | #7 | ci(pre-commit): autoupdate | @app/pre-commit-ci | [tier4/caret_common#7](https://github.com/tier4/caret_common/pull/7) |
 | #6 | ci: add commonly-used .cspell.json | @takam5f2 | [tier4/caret_common#6](https://github.com/tier4/caret_common/pull/6) |
